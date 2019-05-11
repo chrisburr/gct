@@ -1,4 +1,4 @@
-#! /usr/bin/perl
+#!/usr/bin/env perl
 
 use Test::More;
 our @tests = qw (mic_v1_v1 mic_v1_v2 mic_v2_v1 mic_v2_v2);

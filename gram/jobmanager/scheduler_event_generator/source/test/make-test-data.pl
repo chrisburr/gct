@@ -1,4 +1,4 @@
-#! /usr/bin/perl
+#!/usr/bin/env perl
 
 # generates a sorted list of fake events to be used by various SEG tests
 # kept for posterity, a sample test data file is included in the pkg.

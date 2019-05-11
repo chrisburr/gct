@@ -1,4 +1,4 @@
-#! /bin/sh
+#!/usr/bin/env sh
 
 cat <<EOF > common/source/globus_version
 GLOBUS_VERSION="\${GLOBUS_VERSION:-$1}"

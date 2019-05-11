@@ -1,4 +1,4 @@
-#! /bin/sh 
+#!/usr/bin/env sh 
 
 # This script creates a new CA certificate and the configuration files so that
 # the grid-cert-request and grid-ca-sign tools can be used with the CA.

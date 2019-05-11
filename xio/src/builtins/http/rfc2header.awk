@@ -1,4 +1,4 @@
-#! /usr/bin/awk -f 
+#!/usr/bin/env awk -f 
 BEGIN {
     newpage=1;
     print "static"

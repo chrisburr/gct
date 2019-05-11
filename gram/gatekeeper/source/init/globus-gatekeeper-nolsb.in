@@ -1,4 +1,4 @@
-#! /bin/sh
+#!/usr/bin/env sh
 
 # globua-gatekeeper Authorize and execute a grid service
 # chkconfig: @CHKCONFIG_DEFAULT@ 20 80

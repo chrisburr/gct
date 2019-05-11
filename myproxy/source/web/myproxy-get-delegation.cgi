@@ -1,4 +1,4 @@
-#!/usr/bin/perl -w
+#!/usr/bin/env perl -w
 # Thanks to Steve Mock @SDSC for expect stuff
 #
 use CGI qw/:standard/;

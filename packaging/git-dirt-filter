@@ -1,4 +1,4 @@
-#! /bin/sh
+#!/usr/bin/env sh
 
 DIRT_BRANCH_DEF="$(git rev-parse --show-toplevel)/branch.def"
 current_branch="$(git branch | awk "/\*/ {print \$2}")"

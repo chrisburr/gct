@@ -1,4 +1,4 @@
-#! /bin/sh
+#!/usr/bin/env sh
 portfile="$(basename $0).port"
 rm -f "${portfile}"
 ./test_server > "${portfile}" &

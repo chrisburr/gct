@@ -1,4 +1,4 @@
-#! /usr/bin/env perl
+#!/usr/bin/env perl
 #
 # Copyright 1999-2010 University of Chicago
 # 

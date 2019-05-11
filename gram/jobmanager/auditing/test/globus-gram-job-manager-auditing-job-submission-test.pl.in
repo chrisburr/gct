@@ -1,4 +1,4 @@
-#! /usr/bin/env perl
+#!/usr/bin/env perl
 
 BEGIN
 {
@@ -42,7 +42,8 @@ if ($numberOfJobs == 0) {
 }
 
 # submit the jobs
-foreach (@jobFiles) {    my $command = "$Globus::Core::Paths::bindir/globusrun -s -r \"$ENV{CONTACT_STRING}\" -f $_";
+foreach (@jobFiles) {
+    my $command = "$Globus::Core::Paths::bindir/globusrun -s -r \"$ENV{CONTACT_STRING}\" -f $_";
     Util::debug("Submitting job: $command");
     `$command`;
 }

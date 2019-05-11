@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 # Upload source tarballs in the "package-output/" directory in the repo
 # to a remote host, via SCP.

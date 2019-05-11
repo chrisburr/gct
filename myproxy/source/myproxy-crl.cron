@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/usr/bin/env sh
 
 CRLDAYS=14
 SIMPLECADIR="/home/globus/.globus/simpleCA"

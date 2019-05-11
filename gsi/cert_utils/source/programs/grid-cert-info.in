@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/usr/bin/env sh
 
 # 
 # Copyright 1999-2006 University of Chicago

@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/usr/bin/env sh
 #
 # SysV-style boot script for MyProxy server non-root installation
 #

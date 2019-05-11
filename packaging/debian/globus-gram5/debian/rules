@@ -1,4 +1,4 @@
-#!/usr/bin/make -f
+#!/usr/bin/env make -f
 
 include /usr/share/cdbs/1/rules/debhelper.mk
 

@@ -1,4 +1,4 @@
-#!/usr/bin/perl -w
+#!/usr/bin/env perl -w
 
 # myproxy test script
 # written by Jim Basney <jbasney@ncsa.uiuc.edu>

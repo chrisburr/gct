@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/usr/bin/env sh
 
 # This cron script deletes invalid MyProxy credentials
 # (expired, revoked, etc.).

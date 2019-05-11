@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/usr/bin/env sh
 #
 # myproxy-server - Server for X.509 Public Key Infrastructure (PKI) security credentials
 #

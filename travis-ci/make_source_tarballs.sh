@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 # Create source tarballs for all components except gridftp-hdfs in a
 # "package-output/" directory in the repo

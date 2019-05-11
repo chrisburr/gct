@@ -1,4 +1,4 @@
-#! /usr/bin/perl
+#!/usr/bin/env perl
 
 use Globus::Core::Paths;
 use Globus::Core::Config;

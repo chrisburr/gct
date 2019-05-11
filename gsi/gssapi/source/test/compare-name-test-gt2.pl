@@ -1,4 +1,4 @@
-#!/usr/bin/perl
+#!/usr/bin/env perl
 
 $ENV{GLOBUS_GSSAPI_NAME_COMPATIBILITY} = 'STRICT_GT2';
 my $valgrind = "";

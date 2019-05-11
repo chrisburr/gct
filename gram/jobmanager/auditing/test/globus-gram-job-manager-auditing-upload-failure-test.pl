@@ -1,4 +1,4 @@
-#! /usr/bin/env perl
+#!/usr/bin/env perl
 
 BEGIN { push(@INC, "./perl_modules"); }
 

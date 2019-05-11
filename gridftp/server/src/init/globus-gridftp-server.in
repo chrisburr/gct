@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 #
 # globus-gridftp-server	- Globus GridFTP Server
 # chkconfig: @CHKCONFIG_DEFAULT@ 20 80

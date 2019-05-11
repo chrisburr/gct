@@ -1,4 +1,4 @@
-#!/usr/bin/perl
+#!/usr/bin/env perl
 
 my $input = "compare_name_test_hybrid.txt";
 $ENV{GLOBUS_GSSAPI_NAME_COMPATIBILITY} = 'HYBRID';

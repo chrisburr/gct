@@ -1,4 +1,4 @@
-#! /bin/sh
+#!/usr/bin/env sh
 
 GATEKEEPER_PATH="@GATEKEEPER_PATH@"
 PATH="${GATEKEEPER_PATH:+$GATEKEEPER_PATH:}${PATH}"

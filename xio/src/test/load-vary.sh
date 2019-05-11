@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/usr/bin/env sh
 command=$1
 max_load=3
 ctr=0

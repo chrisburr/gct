@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/usr/bin/env sh
 
 if [ -e @datadir_resolved@/gridftp-hdfs/gridftp-hdfs-environment ] ; then
     . @datadir_resolved@/gridftp-hdfs/gridftp-hdfs-environment

@@ -1,4 +1,4 @@
-#! /bin/sh
+#!/usr/bin/env sh
 
 openssh_version=7.5p1
 gsissh_version=${openssh_version}c

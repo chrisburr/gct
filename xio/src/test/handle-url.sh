@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 create_from_url=./handle_create_from_url_test
 file=/etc/group
 

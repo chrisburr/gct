@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/usr/bin/env sh
 username=$1
 if [ X"$username" = X ]; then
     # no username given

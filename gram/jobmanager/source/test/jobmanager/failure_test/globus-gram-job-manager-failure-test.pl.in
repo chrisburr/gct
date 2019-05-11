@@ -1,4 +1,4 @@
-#! /usr/bin/perl
+#!/usr/bin/env perl
 
 use Globus::GRAM::Error;
 use Globus::Core::Paths;

@@ -1,4 +1,4 @@
-#! /bin/sh
+#!/usr/bin/env sh
 # globus-scheduler-event-generator Parse LRM events into a common log format
 # for the GRAM job manager to use
 # chkconfig: @CHKCONFIG_DEFAULT@ 20 80

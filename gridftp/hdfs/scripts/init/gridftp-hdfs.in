@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/usr/bin/env sh
 #
 # gridftp-hdfs A gridftp server for HDFS
 #

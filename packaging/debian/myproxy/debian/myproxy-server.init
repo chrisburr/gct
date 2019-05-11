@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 #
 # myproxy-server - Server for X.509 Public Key Infrastructure (PKI) credentials
 #

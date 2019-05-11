@@ -1,4 +1,4 @@
-#!/usr/bin/perl
+#!/usr/bin/env perl
 use File::Basename;
 system(dirname($0) . '/guc-cc.pl -fast');
 exit($? >> 8);

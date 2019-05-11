@@ -1,4 +1,4 @@
-#! /bin/sh
+#!/usr/bin/env sh
 # This script is used to create binary tarballs, binary dmg, packages, and
 # installers. One feature that this adds, is that if an additional build tree
 # is provided, the binaries will be merged into a fat binary.

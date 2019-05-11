@@ -1,4 +1,4 @@
-#!/usr/bin/perl
+#!/usr/bin/env perl
 
 # myproxy admin adduser/addservice script
 # generates a certificate request using grid-cert-request

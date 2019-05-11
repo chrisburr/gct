@@ -1,4 +1,4 @@
-#! /usr/bin/perl
+#!/usr/bin/env perl
 
 # This tests permutations in the proxy file format order, as well as support
 # for PKCS8-encoded private keys in proxies
